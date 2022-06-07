@@ -93,7 +93,7 @@ How to clone an SQL database and make a query
 
     3.1 To see the changes type in the command line (without quotes) "SELECT * FROM {DB name}" and click on run, the info will be displayed in the bottom with the     
     changes we made
-    ![image](https://user-images.githubusercontent.com/105960409/172481792-14face79-68d0-4861-8654-135b15c94837.png)
+   ![image](https://user-images.githubusercontent.com/105960409/172481792-14face79-68d0-4861-8654-135b15c94837.png)
 
 
   
